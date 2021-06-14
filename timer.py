@@ -10,5 +10,3 @@ def timer(func):
         return result
 
     return my_wrapper
-
-
